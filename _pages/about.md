@@ -18,4 +18,4 @@ Yajie Zhou, **Nengneng Yu**, Simiao Zuo, Yue Yu, Haoming Yi, Chao Zhang, Tuo Zha
 
 Honors
 ======
-[Nengneng Yu Resume](https://github.com/Samfisheryu/samfisheryu.github.io/master/blog/files/CV_PhD_NengnengYu(1).pdf)
+[Nengneng Yu Resume](https://github.com/Samfisheryu/samfisheryu.github.io/master/blob/files/CV_PhD_NengnengYu(1).pdf)
