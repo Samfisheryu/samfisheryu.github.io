@@ -236,7 +236,6 @@ defaults:
   # _teaching
   - scope:
       path: ""
-@@ -242,32 +224,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
