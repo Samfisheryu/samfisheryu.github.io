@@ -1,11 +1,13 @@
 ---
-permalink: /non-menu-page/
+permalink: /Teaching/
 title: "Page not in menu"
 author_profile: true
 redirect_from: 
   - "/teaching/"
   - "/teaching.html"
 ---
+
+
 
 
 University of Maryland College Park Department of Computer Science
