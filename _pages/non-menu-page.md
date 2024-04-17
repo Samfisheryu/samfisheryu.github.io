@@ -3,14 +3,19 @@ permalink: /non-menu-page/
 title: "Page not in menu"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/teaching/"
+  - "/teaching.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
 
-Heading 1
+University of Maryland College Park Department of Computer Science
 ======
+CMSC250 Discrete Structures, Fall 2023, Prof.Mohammad Nayeem Teli
+CMSC414 Computer and Network Security, Spring 2024, Prof.Zaoxing Liu
 
-Heading 2
+
+Boston University College of Engineering
 ======
+EC440 Operating System, Fall 2022, Prof.Manuel Egele
+EC414 Machine Learning, Spring 2022, Prof.Prakash Ishwar
+
