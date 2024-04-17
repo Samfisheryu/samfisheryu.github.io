@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nengneng Yu / Site Title"
+title                    : "Nengneng Yu"
 title_separator          : "-"
 name                     : &name "Nengneng yu"
 description              : &description "personal description"
