@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Maryland College Park 2028 (expected)
+* B.S. in Computer Engineering, Boston University, 2023
+
+  Magna Cum Laude
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Feb 2022: Research Intern
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
