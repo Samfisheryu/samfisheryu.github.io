@@ -9,6 +9,12 @@ redirect_from:
 
 I am a first-year Ph.D. student in the Department of Computer Science at the University of Maryland College Park, advised by Prof. [Zaoxing Liu](https://zaoxing.github.io/). Before joining UMD, I received my B.S. in Computer Engineering from Boston University.
 
+Education
+======
+* Ph.D in Computer Science, University of Maryland College Park 2028 (expected)
+* B.S. in Computer Engineering, Boston University, 2023
+
+  Magna Cum Laude
 
 Publications
 ======
