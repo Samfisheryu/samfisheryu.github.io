@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Computer Science, University of Maryland College Park, 2028 (expected)
 * B.S. in Computer Engineering, Boston University, 2023  
-  Magna Cum Laude
+  * Magna Cum Laude
 
 Publications
 ======
