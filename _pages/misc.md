@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Outside my part-time PhD role, I'm actually a professional racer (joking). I've been running track days for couple of years and plan to engage time attack events afterward.
+Outside my regular activities, I often joke that I'm both a part-time PhD student and a professional racer. In reality, I've spent several years participating in track days and plan to compete in time attack events in the near future. Over the past few years, I have raced with multiple organizations during these track day events. I'm currently racing in the advanced group at MassTuning and sometimes take on the role of an instructor, helping others improve their driving skills.
 
 My Car --- Xiao Hei
 ======
