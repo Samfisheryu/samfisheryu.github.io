@@ -2,4 +2,6 @@
 main:
   - title: "Teaching"
     url: /teaching/    
+  - title: "CV"
+    url: /files/CV_PhD_NengnengY.pdf
     
