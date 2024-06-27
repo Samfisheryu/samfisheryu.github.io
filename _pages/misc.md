@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Despite joking that I'm a part-time PhD student and a professional racer, I really do spend a good chunk of my time on the track. I've been hitting track days for a few years now and I'm eyeing time attack events down the road. Lately, I've been racing with the advanced group at MassTuning and even stepping in as an instructor from time to time
+Although I often joke about being a part-time PhD student and a professional racer, I genuinely spend a significant amount of time on the track. I’ve been participating in track days for several years and am looking forward to competing in time attack events in the future
 
 My Car --- Xiao Hei
 ======
@@ -33,6 +33,9 @@ Track Record
 * 1:17.6  
   
 **Palmer,MA**
-* 1:47.6  
+* 1:47.6
+
+**Watkins Glen,NY**
+* 2:05.8
   
 **Keep Improving!!**
