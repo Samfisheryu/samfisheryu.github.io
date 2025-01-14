@@ -26,8 +26,8 @@ My Car --- Xiao Hei
 Track Record
 ======
 **NJMP,NJ**
-* Thunderbolt: 1:27.6
-* Lightning: 1:12.1  
+* Thunderbolt: 1:25.1
+* Lightning: 1:11.5  
   
 **Thompson,CT**
 * 1:17.6  
@@ -36,6 +36,6 @@ Track Record
 * 1:47.6
 
 **Watkins Glen,NY**
-* 2:05.8
+* 2:02.3
   
 **Keep Improving!!**
