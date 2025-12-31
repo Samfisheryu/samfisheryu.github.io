@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Department of Computer Science at the University of Maryland College Park, advised by Prof. [Zaoxing Liu](https://zaoxing.github.io/). Before joining UMD, I received my B.S. in Computer Engineering from Boston University.
+I am a second-year Ph.D. student in the Department of Computer Science at the University of Maryland College Park, advised by Prof. [Zaoxing Liu](https://zaoxing.github.io/). Before joining UMD, I received my B.S. in Computer Engineering from Boston University.
 
-My research journey has included building applications around large language models (LLMs) to tackle complex problems in network research. I have also developed using transformers for the recognition and detection of Advanced Persistent Threats (APT) within intricate system environments. Currently, my work focuses on creating generative data systems designed to support biomedicine fields. 
+My research primarily centers on two directions: (1) ML systems, from ML-for-systems to systems-for-ML, with a current focus on telemetry and observability for LLM platforms. (2) Data-driven machine learning, where I develop algorithms for learning from complex, real-world data.
 
 Education
 ======
@@ -19,6 +19,16 @@ Education
 
 Publications
 ======
+
+Yajie Zhou, **Nengneng Yu**, Tuo Zhao, Zaoxing Liu, “Tackling Concept Drift in Provenance-based Advanced Persistent Threats Detection", New Ideas in Networked Systems (NINeS), 2026
+
+Wei Wang, **Nengneng Yu**, Sixian Xiong, Zaoxing Liu, “Reliable and Resilient Collective Communication Library for LLM Training and Serving", Arxiv, 2025
+
+Yuefan Wang*, Lindsey Kathleen Olsen*, ..., **Nengneng Yu** (Primary Author),...,Bing Zhang, "A 15-Layer Multi-Omics Dissection of Gastric Cancer Ecotypes Reveals Therapeutic Opportunities", Under Cell review
+        
+
+**Nengneng Yu**, Yuefan Wang, Lindsey Kathleen Olsen, Bing Zhang, Hui Zhang, Zaoxing Liu, “TabSyM: A Generative Pipeline for Small Multi-Cohort Omics Tabular Data”, bioRxiv, 2025
+
 Yajie Zhou*, **Nengneng Yu** * , Zaoxing Liu, “ Towards Interactive Simulacra of Internet Investigation by Human Researchers",  Hot Topics in Networks (HotNets), 2023
 
-Yajie Zhou, **Nengneng Yu**, Simiao Zuo, Yue Yu, Haoming Yi, Chao Zhang, Tuo Zhao, Zaoxing Liu, “SENTINEL: A Fine-Grained, Online Advanced Persistent Threats Detector with Transformer Model", Under Submission
+
