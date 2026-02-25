@@ -20,15 +20,23 @@ Education
 Publications
 ======
 
-Yajie Zhou, **Nengneng Yu**, Tuo Zhao, Zaoxing Liu, “Tackling Concept Drift in Provenance-based Advanced Persistent Threats Detection", New Ideas in Networked Systems (NINeS), 2026
+**[NINeS]** [Tackling Concept Drift in Provenance-based Advanced Persistent Threats Detection](https://nines-conference.org/papers/p001-Zhou.pdf)  
+Yajie Zhou, **Nengneng Yu**, Tuo Zhao, Zaoxing Liu  
+*to appear in NINeS '26*
 
-Wei Wang, **Nengneng Yu**, Sixian Xiong, Zaoxing Liu, “Reliable and Resilient Collective Communication Library for LLM Training and Serving", Arxiv, 2025
+**[Arxiv]** [Reliable and Resilient Collective Communication Library for LLM Training and Serving](https://arxiv.org/pdf/2512.25059)  
+Wei Wang, **Nengneng Yu**, Sixian Xiong, Zaoxing Liu  
+*preprint in Arxiv '25*
 
-Yuefan Wang*, Lindsey Kathleen Olsen*, ..., **Nengneng Yu** (Primary Author),...,Bing Zhang, "A 15-Layer Multi-Omics Dissection of Gastric Cancer Ecotypes Reveals Therapeutic Opportunities", Under Cell review
-        
+**[Cell Reports Medicine]** [A 15-Layer Multi-Omics Dissection of Gastric Cancer Ecotypes Reveals Therapeutic Opportunities](#)  
+Yuefan Wang\*, Lindsey Kathleen Olsen\*, ..., **Nengneng Yu** (Primary Author),...,Bing Zhang  
+*to appear in Cell Reports Medicine*
 
-**Nengneng Yu**, Yuefan Wang, Lindsey Kathleen Olsen, Bing Zhang, Hui Zhang, Zaoxing Liu, “TabSyM: A Generative Pipeline for Small Multi-Cohort Omics Tabular Data”, bioRxiv, 2025
+**[bioRxiv]** [TabSyM: A Generative Pipeline for Small Multi-Cohort Omics Tabular Data](https://www.biorxiv.org/content/10.1101/2025.07.14.664738v1)  
+**Nengneng Yu**, Yuefan Wang, Lindsey Kathleen Olsen, Bing Zhang, Hui Zhang, Zaoxing Liu  
+*preprint in bioRxiv '25*
 
-Yajie Zhou*, **Nengneng Yu** * , Zaoxing Liu, “ Towards Interactive Simulacra of Internet Investigation by Human Researchers",  Hot Topics in Networks (HotNets), 2023
-
+**[HotNets]** [Towards Interactive Simulacra of Internet Investigation by Human Researchers](https://dl.acm.org/doi/epdf/10.1145/3626111.3628212)  
+Yajie Zhou\*, **Nengneng Yu**\*, Zaoxing Liu  
+*to appear in Hot Topics in Networks (HotNets) '23*
 
