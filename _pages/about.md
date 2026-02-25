@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Department of Computer Science at the University of Maryland College Park, advised by Prof. [Zaoxing Liu](https://zaoxing.github.io/). Before joining UMD, I received my B.S. in Computer Engineering from Boston University.
+I am a third-year Ph.D. student in the Department of Computer Science at the University of Maryland College Park, advised by Prof. [Zaoxing Liu](https://zaoxing.github.io/). Before joining UMD, I received my B.S. in Computer Engineering from Boston University.
 
 My research primarily centers on two directions: (1) ML systems, from ML-for-systems to systems-for-ML, with a current focus on telemetry and observability for LLM platforms. (2) Data-driven machine learning, where I develop algorithms for learning from complex, real-world data.
 

@@ -5,16 +5,23 @@ permalink: /misc/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 
 Although I often joke about being a part-time PhD student and a professional racer, I genuinely spend a significant amount of time on the track. I’ve been participating in track days for several years and am looking forward to competing in time attack events in the future
 
-My Car --- Xiao Hei
+My Cars
 ======
-2022 Chevrolet Camaro SS 1LE  
-![](/images/Xiaohei.jpg)
-**Modification**
+
+### 2009 Chevrolet Corvette Z06 *(2025-)*
+
+<img src="../images/IMG_6432.jpeg" alt="Corvette Z06" width="600" style="max-width: 100%; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+### 2022 Chevrolet Camaro SS 1LE *(2021-2025)*
+
+<img src="../images/Xiaohei.jpg" alt="Camaro SS 1LE" width="600" style="max-width: 100%; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+**Modifications**
 * [ZLE front bumper](https://ikonmotorsports.com/products/fits-19-22-chevy-camaro-1le-style-front-bumper-guard-unpainted-pp?_pos=10&_sid=7cfff0963&_ss=r)
 * [Nine Lives Racing Wang](https://9livesracing.com/products/6th-gen-camaro-wang-kit-pre-order?_pos=1&_psq=camaro&_ss=e&_v=1.0)
 * [Vorshleg Camber Plate](https://vorshlag-store.com/products/vorshlag-6th-gen-2016-camaro-camber-plates-for-oem-style-springs)
@@ -37,5 +44,8 @@ Track Record
 
 **Watkins Glen,NY**
 * 2:02.3
-  
+
+**Summit Point,WV**
+* 1:19.5
+
 **Keep Improving!!**
