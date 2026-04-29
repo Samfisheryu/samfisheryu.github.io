@@ -28,7 +28,7 @@ Yajie Zhou, **Nengneng Yu**, Tuo Zhao, Zaoxing Liu
 Wei Wang, **Nengneng Yu**, Sixian Xiong, Zaoxing Liu  
 *preprint in Arxiv '25*
 
-**[Cell Reports Medicine]** [A 15-Layer Multi-Omics Dissection of Gastric Cancer Ecotypes Reveals Therapeutic Opportunities](#)  
+**[Cell Reports Medicine]** [A 15-Layer Multi-Omics Dissection of Gastric Cancer Ecotypes Reveals Therapeutic Opportunities](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00173-4)  
 Yuefan Wang\*, Lindsey Kathleen Olsen\*, ..., **Nengneng Yu** (Primary Author),...,Bing Zhang  
 *to appear in Cell Reports Medicine*
 
@@ -37,6 +37,6 @@ Yuefan Wang\*, Lindsey Kathleen Olsen\*, ..., **Nengneng Yu** (Primary Author),.
 *preprint in bioRxiv '25*
 
 **[HotNets]** [Towards Interactive Simulacra of Internet Investigation by Human Researchers](https://dl.acm.org/doi/epdf/10.1145/3626111.3628212)  
-Yajie Zhou\*, **Nengneng Yu**\*, Zaoxing Liu  
+Yajie Zhou\*, **Nengneng Yu**\*, Zaoxing Liu (Co-first author)
 *to appear in Hot Topics in Networks (HotNets) '23*
 
