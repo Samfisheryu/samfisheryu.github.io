@@ -41,7 +41,8 @@ interests:
 
 education:
   - degree: Ph.D. in Computer Science
-    institution: University of Maryland, College Park
+    institution: University of Maryland
+    year: 2023 – Expected 2028
     start: '2023'
     end: Expected 2028
     summary: |
@@ -49,6 +50,7 @@ education:
       platforms, and resilient collective communication.
   - degree: B.S. in Computer Engineering
     institution: Boston University
+    year: 2019 – 2023
     start: '2019'
     end: '2023'
     summary: |
