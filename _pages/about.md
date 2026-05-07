@@ -37,6 +37,6 @@ Yuefan Wang\*, Lindsey Kathleen Olsen\*, ..., **Nengneng Yu** (Primary Author),.
 *preprint in bioRxiv '25*
 
 **[HotNets]** [Towards Interactive Simulacra of Internet Investigation by Human Researchers](https://dl.acm.org/doi/epdf/10.1145/3626111.3628212)  
-Yajie Zhou\*, **Nengneng Yu**\*, Zaoxing Liu (Co-first author)
+Yajie Zhou\*, **Nengneng Yu**\*, Zaoxing Liu (Co-first author)  
 *to appear in Hot Topics in Networks (HotNets) '23*
 
