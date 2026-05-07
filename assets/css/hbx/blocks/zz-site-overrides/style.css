@@ -1,0 +1,51 @@
+/* Site-wide overrides for the academic-cv template.
+   Loaded last among per-block style.css files (alphabetical). */
+
+/* --- Tighten the resume-biography-3 (home) section padding --- */
+.resume-biography {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+@media (min-width: 640px) {
+  .resume-biography {
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
+  }
+}
+@media (min-width: 768px) {
+  .resume-biography {
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
+  }
+}
+@media (min-width: 1024px) {
+  .resume-biography {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+}
+@media (min-width: 1280px) {
+  .resume-biography {
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+  }
+}
+
+/* --- Widen the home biography inner container (was max-w-7xl = 80rem) --- */
+.resume-biography > .max-w-7xl {
+  max-width: 96rem; /* ~1536px */
+}
+
+/* --- Widen the article-grid container used by Selected Publications
+       (was max-w-screen-lg = 64rem on multi-card grids) --- */
+section .container.max-w-screen-lg {
+  max-width: 88rem; /* ~1408px */
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  section .container.max-w-screen-lg {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+}
