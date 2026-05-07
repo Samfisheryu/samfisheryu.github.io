@@ -41,21 +41,20 @@ interests:
 education:
   - degree: Ph.D. in Computer Science
     institution: University of Maryland, College Park
-    start: 2023-08-01
+    start: 2023 - expected 2028
     summary: |
       Advised by Prof. Zaoxing (Alan) Liu. Research on ML systems, observability for LLM
       platforms, and resilient collective communication.
   - degree: B.S. in Computer Engineering
     institution: Boston University
-    start: 2019-09-01
-    end: 2023-05-31
+    start: 2019 - 2023
     summary: |
       Magna Cum Laude.
 
 experience:
   - role: Graduate Research Assistant
     org: Froot Lab, University of Maryland
-    start: 2023-08-01
+    start: 2023 - expected 2028
     summary: |
       Project-DMI: an online activation telemetry substrate for high-performance LLM
       inference. R2CC: a reliable and resilient collective communication library for
@@ -63,8 +62,7 @@ experience:
       data analysis (TabSyM).
   - role: Undergraduate Researcher
     org: Boston University & Red Hat & Georgia Tech
-    start: 2022-02-01
-    end: 2023-05-31
+    start: 2022 - 2023
     summary: |
       TIDAL: a provenance-based intrusion detection system addressing concept drift in
       Advanced Persistent Threats detection. Co-first authored work appeared at HotNets'23.
@@ -73,16 +71,10 @@ skills:
   - name: Programming
     items:
       - label: C / C++
-        level: 5
       - label: Python (PyTorch, NumPy, Pandas)
-        level: 5
       - label: LLM Serving (vLLM, SGLang)
-        level: 4
   - name: Systems & ML
     items:
       - label: Distributed Systems & Networking
-        level: 4
       - label: GPU / Collective Communication
-        level: 4
       - label: Machine Learning & Deep Learning
-        level: 4
