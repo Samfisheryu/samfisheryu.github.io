@@ -15,17 +15,20 @@ publication: '*arXiv preprint arXiv:2512.25059*'
 publication_short: 'arXiv'
 
 abstract: |
-  Modern LLM training and inference can waste 10–15% of GPU hours due to slow
-  recovery from network failures. We present R2CC, an NCCL-compatible
-  collective communication library that maintains job progress under NIC and
-  link failures via seamless RDMA connection migration, multi-NIC GPU-memory
-  preregistration, NIC-affinity scheduling, and an adaptive split-AllReduce
-  strategy. Evaluated on SimAI and a 2x8 H100 cluster, R2CC outperforms
-  recovery-based approaches such as checkpoint/restart and existing
-  fault-tolerant frameworks in end-to-end LLM training and serving under
-  injected failures.
+  Modern ML training and inference now span tens to tens of thousands of GPUs,
+  where network faults can waste 10–15% of GPU hours due to slow recovery. We
+  present R2CC, a fault-tolerant communication library that provides lossless,
+  low-overhead failover by exploiting multi-NIC hardware. R2CC performs rapid
+  connection migration, bandwidth-aware load redistribution, and resilient
+  collective algorithms to maintain progress under failures. Evaluated on a
+  4×8 H100 InfiniBand cluster and large-scale ML simulators modeling up to
+  1024 GPUs with diverse failure patterns, R2CC is highly robust to inter-node
+  network failures, incurring less than 1.1% training and 3% inference
+  overhead under active failure scenarios. Compared to existing fault-tolerant
+  approaches, R2CC reduces failure-induced overhead by up to 92% for training
+  and 98% for inference.
 
-summary: 'A fault-tolerant, NCCL-compatible collective communication library that keeps LLM training and serving alive under NIC/link failures.'
+summary: 'A fault-tolerant, NCCL-compatible collective communication library that keeps LLM training and serving alive under NIC/link failures with <1.1% training / <3% inference overhead.'
 
 tags:
   - Collective Communication

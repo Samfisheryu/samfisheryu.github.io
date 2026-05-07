@@ -1,5 +1,5 @@
 ---
-title: 'Towards Interactive Simulacra of Internet Investigation by Human Researchers'
+title: 'Towards Interactive Research Agents for Internet Incident Investigation'
 
 authors:
   - Yajie Zhou

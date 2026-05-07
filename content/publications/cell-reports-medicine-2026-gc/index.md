@@ -4,13 +4,17 @@ title: 'A 15-Layer Multi-Omics Dissection of Gastric Cancer Ecotypes Reveals The
 authors:
   - Yuefan Wang
   - Lindsey Kathleen Olsen
+  - '...'
   - me
+  - '...'
   - Bing Zhang
 
 author_notes:
   - 'Co-first author'
   - 'Co-first author'
+  - ''
   - 'Primary author'
+  - ''
   - ''
 
 date: '2026-01-01T00:00:00Z'

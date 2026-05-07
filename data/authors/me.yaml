@@ -62,26 +62,45 @@ experience:
     start: '2023'
     end: Expected 2028
     summary: |
-      Project-DMI: an online activation telemetry substrate for high-performance LLM
-      inference. R2CC: a reliable and resilient collective communication library for
-      LLM training and serving. Generative-AI pipelines for cross-cohort biomedical
-      data analysis (TabSyM).
+      **DMI** — A high-performance, model-agnostic deep model inspector for online
+      LLM-internal observability, decoupling internal-state capture from the inference
+      hot path via a GPU–CPU staging substrate (Ring²).
+
+      **R2CC** — A reliable and resilient collective communication library that turns
+      NCCL from fail-stop to fail-operational under inter-node NIC/link failures,
+      keeping LLM training and serving alive with negligible overhead.
+
+      **Interactive Research Agents for Internet Incident Investigation** — Co-first-authored
+      LLM-based agent (Auto-GPT + GPT-4) that simulates network researchers; appeared at
+      **HotNets'23**.
+
+      **Multi-omics Gastric Cancer Ecotypes (with TabSyM)** — Joint work with Johns Hopkins
+      Medicine and Baylor on a 15-layer multi-omics dissection of gastric cancer ecotypes
+      (**Cell Reports Medicine**). Within that effort, I led **TabSyM**, a generative
+      pipeline (TabDDPM + task-aware sampling + multi-domain adversarial alignment) for
+      small, multi-cohort, high-dimensional omics tabular data, released as a separate
+      methodology preprint on bioRxiv.
   - role: Undergraduate Researcher
-    org: Boston University & Red Hat & Georgia Tech
+    org: Boston University, Red Hat, Georgia Tech
     start: '2022'
     end: '2023'
     summary: |
-      TIDAL: a provenance-based intrusion detection system addressing concept drift in
-      Advanced Persistent Threats detection. Co-first authored work appeared at HotNets'23.
+      **Tidal / APT detection** — Provenance-based intrusion detection system addressing
+      concept drift in Advanced Persistent Threats; multi-head Transformer with
+      pre-train / fine-tune to balance new-attack adaptation and pre-drift retention.
+      Published at **NINeS'26**.
 
 skills:
   - name: Programming
     items:
       - label: C / C++
       - label: Python (PyTorch, NumPy, Pandas)
-      - label: LLM Serving (vLLM, SGLang)
+      - label: CUDA
+      - label: Java
+      
   - name: Systems & ML
     items:
+      - label: LLM Inference
       - label: Distributed Systems & Networking
       - label: GPU / Collective Communication
       - label: Machine Learning & Deep Learning

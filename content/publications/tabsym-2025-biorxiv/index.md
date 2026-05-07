@@ -33,7 +33,7 @@ tags:
   - Multi-Cohort
   - Computational Biology
 
-featured: true
+featured: false
 
 links:
   - type: custom
