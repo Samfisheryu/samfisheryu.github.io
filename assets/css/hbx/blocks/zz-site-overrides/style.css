@@ -20,14 +20,14 @@
 }
 @media (min-width: 1024px) {
   .resume-biography {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
   }
 }
 @media (min-width: 1280px) {
   .resume-biography {
-    padding-top: 3.5rem;
-    padding-bottom: 3.5rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
   }
 }
 
@@ -47,5 +47,29 @@ section .container.max-w-screen-lg {
   section .container.max-w-screen-lg {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
+  }
+}
+
+/* --- Fluid typography for name and bio text so the layout adapts to
+       both Mac-laptop (≈1280-1440px) and large external displays --- */
+.resume-biography h1 {
+  /* clamp(min, viewport-relative, max) — was static text-2xl→text-4xl */
+  font-size: clamp(1.5rem, 2.4vw + 0.5rem, 2.5rem);
+  line-height: 1.15;
+}
+.resume-biography .bio-text {
+  font-size: clamp(0.95rem, 0.55vw + 0.78rem, 1.1rem);
+  line-height: 1.65;
+}
+.resume-biography .bio-text p,
+.resume-biography .bio-text li {
+  font-size: inherit;
+}
+
+/* Cap avatar size on smaller viewports so it doesn't dominate */
+@media (max-width: 1023px) {
+  .resume-biography .avatar-wrapper {
+    width: clamp(96px, 16vw, 150px) !important;
+    height: clamp(96px, 16vw, 150px) !important;
   }
 }
