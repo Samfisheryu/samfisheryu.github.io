@@ -41,10 +41,10 @@ from the inference hot path through three pieces:
   placed at arbitrary locations in PyTorch models, exposing diverse internal
   states without engine-specific changes.
 - **Ring²** — a GPU–CPU staging abstraction that keeps tensor capture inside
-  CUDA graphs and a dedicated GPU-side ring buffer, drained asynchronously
-  on the host.
-- A **runtime policy manager** with complete or best-effort export policies,
-  adapting data rate and fidelity to interconnect and memory budgets.
+  CUDA graphs and a dedicated GPU-side ring buffer.
+- A **data exporter** that drains the staged tensors asynchronously on the
+  host, governed by complete or best-effort policies that adapt data rate
+  and fidelity to interconnect and memory budgets.
 
 Integrated with Hugging Face and vLLM in ~11K lines of CUDA / C++ / Python.
 Across offline batch inference DMI introduces only **0.4 % – 6.8 %**
