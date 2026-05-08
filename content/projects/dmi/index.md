@@ -50,3 +50,6 @@ than baselines with comparable observability features.
 📄 [Enabling Performant and Flexible Model-Internal Observability for LLM
 Inference]({{< ref "/publications/dmi-arxiv" >}}) (arXiv preprint, with NSDI'26
 [poster](/uploads/dmi-poster.pdf)).
+
+💻 Code is open-sourced at **[github.com/ProjectDMX/DMI](https://github.com/ProjectDMX/DMI)** —
+contributions, issues, and benchmark reports very welcome.

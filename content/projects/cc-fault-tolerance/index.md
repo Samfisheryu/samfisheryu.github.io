@@ -10,6 +10,11 @@ tags:
   - Distributed Systems
 
 featured: true
+
+links:
+  - type: github
+    url: https://github.com/r2cc-project/R-2CCL
+    label: r2cc-project/R-2CCL
 ---
 
 ## Motivation
@@ -39,6 +44,9 @@ inference** versus existing fault-tolerant approaches.
 📄 [Reliable and Resilient Collective Communication Library for LLM
 Training and Serving]({{< ref "/publications/r2cc-2025-arxiv" >}}) (arXiv
 preprint).
+
+💻 Code is open-sourced at **[github.com/r2cc-project/R-2CCL](https://github.com/r2cc-project/R-2CCL)** —
+a drop-in NCCL extension; contributions and bug reports welcome.
 
 ### Bandwidth-optimal AllReduce under bandwidth-asymmetric topologies
 
