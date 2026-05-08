@@ -50,6 +50,13 @@ section .container.max-w-screen-lg {
   }
 }
 
+/* Show full overview figures in home project cards: keep aspect ratio and
+   fit the long side to the card frame instead of cropping or stretching. */
+#projects a[href^="/projects/"] img[src*="/projects/"][src*="/featured"] {
+  object-fit: contain !important;
+  background: white;
+}
+
 /* --- Fluid typography for name and bio text so the layout adapts to
        both Mac-laptop (≈1280-1440px) and large external displays --- */
 .resume-biography h1 {

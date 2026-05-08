@@ -10,6 +10,9 @@ tags:
 
 featured: true
 
+image:
+  preview_only: true
+
 links:
   - type: github
     url: https://github.com/ProjectDMX/DMI
