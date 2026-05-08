@@ -27,12 +27,12 @@ sections:
         size: small
         shape: circle
   - block: collection
-    id: papers
+    id: projects
     content:
-      title: Selected Publications
+      title: Selected Projects
       filters:
         folders:
-          - publications
+          - projects
         featured_only: true
     design:
       view: article-grid

@@ -10,8 +10,8 @@ authors:
   - Bing Zhang
 
 author_notes:
-  - 'Co-first author'
-  - 'Co-first author'
+  - ''
+  - ''
   - ''
   - 'Primary author'
   - ''
