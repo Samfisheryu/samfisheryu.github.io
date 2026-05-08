@@ -162,7 +162,7 @@ hugoblox:
       enable: true
     # Reading time estimates
     reading_time:
-      enable: true
+      enable: false
     # Academic citations
     citations:
       style: apa # apa | mla | chicago | ieee

@@ -26,6 +26,14 @@ cascade:
       path: /slides/**
       kind: page
     outputs: [HTML, present]
+  - target:
+      kind: page
+    reading_time: false
+    share: false
+    profile: false
+    show_breadcrumb: false
+    show_date: false
+    show_related: false
 
 ############################
 ## ADVANCED

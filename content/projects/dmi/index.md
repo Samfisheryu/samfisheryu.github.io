@@ -20,7 +20,7 @@ links:
     label: Poster
 ---
 
-## Overview
+## Motivation
 
 Today's inference-time workloads increasingly depend on **timely access to a
 model's internal states** — for interpretability, test-time alignment,
@@ -28,9 +28,14 @@ speculative decoding, hallucination detection, and real-time safety
 monitoring. But existing approaches retrofit observation either through
 PyTorch hooks (limited and slow) or engine-specific APIs (not portable),
 treating observability as an afterthought rather than a systems concern.
+This project pursues internal observability as a *first-class systems
+primitive*, asking: what does it take for a serving stack to expose
+arbitrary internal states without paying for it on the inference hot path?
 
-**DMI** treats internal observability as a *first-class systems primitive*,
-decoupling it from the inference hot path via:
+### DMI — Deep Model Inspector
+
+DMI is the first system in this line of work. It decouples observability
+from the inference hot path through three pieces:
 
 - **HookPoint** — a CUDA-graph-compatible collection primitive that can be
   placed at arbitrary locations in PyTorch models, exposing diverse internal
@@ -42,15 +47,10 @@ decoupling it from the inference hot path via:
   adapting data rate and fidelity to interconnect and memory budgets.
 
 Integrated with Hugging Face and vLLM in ~11K lines of CUDA / C++ / Python.
+Across offline batch inference DMI introduces only **0.4 % – 6.8 %**
+overhead and ~**6 %** in moderate online serving — **2× – 15×** lower
+than baselines with comparable observability features.
 
-## Results
-
-- **0.4 % – 6.8 %** overhead on offline batch inference
-- **~6 %** overhead on moderate online serving
-- **2× – 15×** lower latency overhead than baselines with comparable
-  observability features
-
-## Papers
-
-- **[Enabling Performant and Flexible Model-Internal Observability for LLM
-  Inference]({{< ref "/publications/dmi-arxiv" >}})** — arXiv preprint.
+📄 [Enabling Performant and Flexible Model-Internal Observability for LLM
+Inference]({{< ref "/publications/dmi-arxiv" >}}) (arXiv preprint, with
+[poster](/uploads/dmi-poster.pdf)).
