@@ -5,9 +5,8 @@ summary: 'Treating model-internal observability as a first-class systems primiti
 date: '2025-09-01T00:00:00Z'
 
 tags:
-  - LLM Inference
-  - Observability
   - Systems for ML
+  - LLM
 
 featured: true
 

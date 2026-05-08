@@ -28,10 +28,7 @@ abstract: |
 summary: 'Diffusion-based generative pipeline for small, high-dimensional, cross-cohort omics tabular data.'
 
 tags:
-  - Generative Models
-  - Tabular Diffusion
-  - Multi-Cohort
-  - Computational Biology
+  - ML Algorithms
 
 featured: false
 

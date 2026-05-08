@@ -32,10 +32,8 @@ abstract: |
 summary: 'A performant, flexible deep model inspector that turns internal LLM observability into a first-class systems primitive — only 0.4%–6.8% offline / ~6% online overhead, 2×–15× lower latency than baselines.'
 
 tags:
-  - LLM Inference
-  - Observability
   - Systems for ML
-  - GPU
+  - LLM
 
 featured: true
 

@@ -30,10 +30,7 @@ abstract: |
 summary: 'A multi-head Transformer-based PIDS that tackles concept drift in APT detection via transfer learning — 27% higher recall and 31% higher precision with half the training data.'
 
 tags:
-  - APT Detection
-  - Concept Drift
-  - Transformer
-  - Provenance Graphs
+  - ML for Systems
 
 featured: false
 

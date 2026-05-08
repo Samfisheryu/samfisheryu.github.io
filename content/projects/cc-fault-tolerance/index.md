@@ -5,10 +5,9 @@ summary: 'Closing the gap between fail-stop CCLs and the realities of large-scal
 date: '2025-05-01T00:00:00Z'
 
 tags:
-  - Collective Communication
-  - Fault Tolerance
-  - LLM Training
-  - LLM Serving
+  - Systems for ML
+  - LLM
+  - Distributed Systems
 
 featured: true
 

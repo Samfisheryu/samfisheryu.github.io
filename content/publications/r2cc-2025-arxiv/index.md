@@ -31,11 +31,9 @@ abstract: |
 summary: 'A fault-tolerant, NCCL-compatible collective communication library that keeps LLM training and serving alive under NIC/link failures with <1.1% training / <3% inference overhead.'
 
 tags:
-  - Collective Communication
-  - Fault Tolerance
-  - LLM Training
-  - LLM Serving
-  - RDMA
+  - Systems for ML
+  - LLM
+  - Distributed Systems
 
 featured: true
 

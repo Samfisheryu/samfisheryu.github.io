@@ -30,9 +30,8 @@ abstract: |
 summary: 'LLM-based research agents that simulate experienced researchers for Internet incident investigation.'
 
 tags:
-  - LLM Agents
-  - Internet Measurement
-  - Networked Systems
+  - ML for Systems
+  - LLM
 
 featured: false
 

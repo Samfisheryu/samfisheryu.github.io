@@ -33,9 +33,7 @@ abstract: |
 summary: 'Integrative 15-layer multi-omics dissection of gastric cancer ecotypes, identifying therapeutic opportunities.'
 
 tags:
-  - Multi-omics
-  - Gastric Cancer
-  - Computational Biology
+  - ML Algorithms
 
 featured: false
 
