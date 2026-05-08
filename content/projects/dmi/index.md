@@ -9,14 +9,6 @@ tags:
   - LLM
 
 featured: true
-
-links:
-  - type: pdf
-    url: /uploads/dmi-arxiv.pdf
-    label: arXiv preprint
-  - type: poster
-    url: /uploads/dmi-poster.pdf
-    label: Poster
 ---
 
 ## Motivation

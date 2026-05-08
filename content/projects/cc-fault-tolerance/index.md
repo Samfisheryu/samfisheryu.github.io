@@ -10,12 +10,6 @@ tags:
   - Distributed Systems
 
 featured: true
-
-links:
-  - type: preprint
-    provider: arxiv
-    id: '2512.25059'
-    label: R2CC arXiv
 ---
 
 ## Motivation
