@@ -9,6 +9,11 @@ tags:
   - LLM
 
 featured: true
+
+links:
+  - type: github
+    url: https://github.com/ProjectDMX/DMI
+    label: ProjectDMX/DMI
 ---
 
 ## Motivation
@@ -43,5 +48,5 @@ overhead and ~**6 %** in moderate online serving — **2× – 15×** lower
 than baselines with comparable observability features.
 
 📄 [Enabling Performant and Flexible Model-Internal Observability for LLM
-Inference]({{< ref "/publications/dmi-arxiv" >}}) (arXiv preprint, with
+Inference]({{< ref "/publications/dmi-arxiv" >}}) (arXiv preprint, with NSDI'26
 [poster](/uploads/dmi-poster.pdf)).
