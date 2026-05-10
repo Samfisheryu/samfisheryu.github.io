@@ -32,9 +32,9 @@ hugoblox:
   # Color and visual design system
   # ────────────────────────────────────────────────────────────────────────────
   theme:
-    # Locked to the Contrast pack with a neutral (black/white/grey) palette
+    # Default pack with a neutral (black/white/grey) palette override
     mode: system
-    pack: "contrast"
+    pack: "default"
     colors:
       primary: "slate"
       secondary: "zinc"
@@ -85,9 +85,9 @@ hugoblox:
     align: center # left | center | right
     # Feature toggles
     search: true
-    theme_toggle: false
-    theme_picker: false
-    language_switcher: false
+    theme_toggle: true
+    theme_picker: true
+    language_switcher: true
     # Call-to-action button
     cta:
       enable: false
