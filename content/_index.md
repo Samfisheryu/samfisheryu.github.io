@@ -29,7 +29,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: 'Selected Projects <a class="text-2xl font-medium text-primary-600 hover:text-primary-700 dark:text-primary-400 ml-75 align-middle" href="/publications/">view all →</a>'
+      title: 'Selected Projects <a class="text-2xl font-medium text-primary-600 hover:text-primary-700 dark:text-primary-400 ml-20 align-middle" href="/publications/">view all →</a>'
       filters:
         folders:
           - projects
