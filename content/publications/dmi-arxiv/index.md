@@ -39,7 +39,7 @@ featured: true
 
 links:
   - type: pdf
-    url: /uploads/dmi-arxiv.pdf
+    url: placeholder
   - type: poster
     url: /uploads/dmi-poster.pdf
 ---

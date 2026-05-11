@@ -20,7 +20,7 @@ sections:
     design:
       background:
         gradient_mesh:
-          enable: true
+          enable: false
       name:
         size: sm
       avatar:
@@ -29,7 +29,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Selected Projects
+      title: 'Selected Projects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="text-2xl font-medium text-primary-600 hover:text-primary-700 dark:text-primary-400 ml-75 align-middle" href="/publications/">view all →</a>'
       filters:
         folders:
           - projects

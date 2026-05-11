@@ -31,6 +31,8 @@ links:
     url: https://github.com/Samfisheryu
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nengneng-yu-b69131221/
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AIqSsVs7vAOhqc9hK4rpMLGs8XbpkiyTu_j7-7D07WBKXK9CzdJDjX8gBc0XwwCo3I-liYFqfta13PVeFQDDqw&user=qYUqg0IAAAAJ
 
 interests:
   - Large Language Model 
@@ -62,33 +64,26 @@ experience:
     start: '2023'
     end: Expected 2028
     summary: |
-      **DMI** — A high-performance, model-agnostic deep model inspector for online
-      LLM-internal observability, decoupling internal-state capture from the inference
-      hot path via a GPU–CPU staging substrate (Ring²).
+      Research ML systems and distributed infrastructure for large-scale model training
+      and serving. My work focuses on efficient LLM-internal observability, resilient
+      collective communication under NIC/link failures, and practical systems that run
+      across real GPU, network, and serving-stack constraints.
 
-      **R2CC** — A reliable and resilient collective communication library that turns
-      NCCL from fail-stop to fail-operational under inter-node NIC/link failures,
-      keeping LLM training and serving alive with negligible overhead.
-
-      **Interactive Research Agents for Internet Incident Investigation** — Co-first-authored
-      LLM-based agent (Auto-GPT + GPT-4) that simulates network researchers; appeared at
-      **HotNets'23**.
-
-      **Multi-omics Gastric Cancer Ecotypes (with TabSyM)** — Joint work with Johns Hopkins
-      Medicine and Baylor on a 15-layer multi-omics dissection of gastric cancer ecotypes
-      (**Cell Reports Medicine**). Within that effort, I led **TabSyM**, a generative
-      pipeline (TabDDPM + task-aware sampling + multi-domain adversarial alignment) for
-      small, multi-cohort, high-dimensional omics tabular data, released as a separate
-      methodology preprint on bioRxiv.
+      I build end-to-end prototypes across CUDA, C++, Python, PyTorch, vLLM, and
+      NCCL-like communication stacks; design GPU-cluster and LLM-serving evaluations;
+      and collaborate on applied ML projects including Internet incident investigation
+      agents and multi-cohort biomedical modeling.
   - role: Undergraduate Researcher
     org: Boston University, Red Hat, Georgia Tech
     start: '2022'
     end: '2023'
     summary: |
-      **Tidal / APT detection** — Provenance-based intrusion detection system addressing
-      concept drift in Advanced Persistent Threats; multi-head Transformer with
-      pre-train / fine-tune to balance new-attack adaptation and pre-drift retention.
-      Published at **NINeS'26**.
+      Worked on provenance-based intrusion detection for advanced persistent threats,
+      with a focus on concept drift and adapting to evolving attack behaviors.
+
+      I built experiment pipelines, trained and evaluated Transformer-based models on
+      provenance data, and contributed to a cross-institution academic/industry research
+      project that was accepted to NINeS'26.
 
 skills:
   - name: Programming

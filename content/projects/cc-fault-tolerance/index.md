@@ -1,5 +1,5 @@
 ---
-title: 'Reliable & Resilient Collective Communication for Distributed ML'
+title: 'Collective Communication Under Failures for Distributed ML'
 summary: 'Closing the gap between fail-stop CCLs and the realities of large-scale GPU training/serving — through resilient communication and bandwidth-optimal AllReduce under failures.'
 
 date: '2025-05-01T00:00:00Z'

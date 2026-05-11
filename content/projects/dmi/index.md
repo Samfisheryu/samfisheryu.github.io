@@ -1,5 +1,5 @@
 ---
-title: 'DMI: Performant and Flexible LLM Internal Observability'
+title: 'Enable LLM Internal Observability'
 summary: 'Treating model-internal observability as a first-class systems primitive for high-performance LLM inference.'
 
 date: '2025-09-01T00:00:00Z'
@@ -45,8 +45,9 @@ from the inference hot path through three pieces:
   host, governed by complete or best-effort policies that adapt data rate
   and fidelity to interconnect and memory budgets.
 
-Integrated with Hugging Face and vLLM in ~11K lines of CUDA / C++ / Python.
-Across offline batch inference DMI introduces only **0.4 % – 6.8 %**
+A standalone system in ~11K lines of CUDA / C++ / Python. With out of the box
+support for Hugging Face and vLLM. In offline batch inference, DMI introduces
+only **0.4 % – 6.8 %**
 overhead and ~**6 %** in moderate online serving — **2× – 15×** lower
 than baselines with comparable observability features.
 

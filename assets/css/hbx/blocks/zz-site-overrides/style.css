@@ -1,6 +1,12 @@
 /* Site-wide overrides for the academic-cv template.
    Loaded last among per-block style.css files (alphabetical). */
 
+/* Make page sections much tighter than the HugoBlox default 6rem spacing. */
+.hbb-section {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 /* --- Tighten the resume-biography-3 (home) section padding --- */
 .resume-biography {
   padding-top: 1.25rem;
@@ -31,15 +37,20 @@
   }
 }
 
-/* --- Widen the home biography inner container (was max-w-7xl = 80rem) --- */
-.resume-biography > .max-w-7xl {
-  max-width: 96rem; /* ~1536px */
+/* Pull Selected Projects closer to the bio block while leaving the section's
+   bottom spacing intact. */
+#projects.hbb-section {
+  padding-top: 0;
+}
+@media (min-width: 1024px) {
+  #projects.hbb-section {
+    padding-top: 0;
+  }
 }
 
-/* --- Widen the article-grid container used by Selected Publications
-       (was max-w-screen-lg = 64rem on multi-card grids) --- */
+/* --- Tighten the collection section vertical padding while keeping the
+       template's original horizontal width --- */
 section .container.max-w-screen-lg {
-  max-width: 88rem; /* ~1408px */
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
@@ -48,6 +59,12 @@ section .container.max-w-screen-lg {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
   }
+}
+
+/* The citation collection template adds a large mt-16/sm:mt-20 gap between
+   the page title and the first publication; keep it compact. */
+#section-content-collection .container.max-w-3xl.w-full {
+  margin-top: 1rem !important;
 }
 
 /* Show full overview figures in home project cards: keep aspect ratio and
