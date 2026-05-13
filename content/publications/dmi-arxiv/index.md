@@ -8,11 +8,11 @@ authors:
   - Wei Wang
   - Zaoxing Liu
 
-date: '2026-05-07T00:00:00Z'
-publishDate: '2026-05-07T00:00:00Z'
+date: '2026-05-11T00:00:00Z'
+publishDate: '2026-05-11T00:00:00Z'
 
 publication_types: ['article']
-publication: '*arXiv preprint*'
+publication: '*arXiv preprint arXiv:2605.11093*'
 publication_short: 'arXiv'
 
 abstract: |
@@ -38,8 +38,11 @@ tags:
 featured: true
 
 links:
+  - type: preprint
+    provider: arxiv
+    id: '2605.11093'
   - type: pdf
-    url: placeholder
+    url: https://arxiv.org/pdf/2605.11093
   - type: poster
     url: /uploads/dmi-poster.pdf
 ---
