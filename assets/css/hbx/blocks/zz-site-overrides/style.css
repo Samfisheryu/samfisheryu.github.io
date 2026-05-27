@@ -91,9 +91,33 @@ section .container.max-w-screen-lg {
 }
 
 /* Cap avatar size on smaller viewports so it doesn't dominate */
+.resume-biography .avatar-wrapper {
+  overflow: visible;
+  flex-shrink: 0;
+  border-radius: 9999px;
+  line-height: 0;
+}
+
+.resume-biography .avatar-wrapper .avatar {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 100%;
+  border-radius: 9999px;
+  object-fit: cover;
+}
+
 @media (max-width: 1023px) {
   .resume-biography .avatar-wrapper {
     width: clamp(96px, 16vw, 150px) !important;
     height: clamp(96px, 16vw, 150px) !important;
+  }
+}
+
+@media (max-width: 639px) {
+  .resume-biography .avatar-wrapper {
+    width: clamp(88px, 28vw, 112px) !important;
+    height: clamp(88px, 28vw, 112px) !important;
+    margin-bottom: 0.5rem !important;
   }
 }
