@@ -61,4 +61,4 @@ four-stage pipelined AllReduce that closes the gap to within **2 – 6 %**
 of NCCL's fault-free ring under up to 50 % bandwidth loss — whereas
 state-of-the-art still incurs up to 57 % overhead.
 
-*Manuscript under review — details available on request.*
+📄 [Don't Let a Few Network Failures Slow the Entire AllReduce]({{< ref "/publications/optcc-2026-arxiv" >}}) (arXiv preprint).
